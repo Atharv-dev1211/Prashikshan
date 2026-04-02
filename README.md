@@ -156,3 +156,6 @@ We welcome contributions to help make Prashikshan even better! Feel free to open
 <p align="center">
   Built with ❤️ for Cyberathon and a Smarter Future.
 </p>
+
+<p> Sanskruti Sonawane <br>
+Atharv Tambile </p>
